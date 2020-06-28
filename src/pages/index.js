@@ -1,12 +1,12 @@
 import React from "react"
 import { graphql } from "gatsby"
 
-import Layout from "../components/layout"
-import SEO from "../components/seo"
+import Layout from "../components/layout/layout"
+import SEO from "../components/layout/seo"
 import PageContent from '../components/layout/pageContent';
 
-import LandingHeader from '../components/content/landingHeader/landingHeader';
-import ChipStrip from '../components/content/chipStrip/chipStrip';
+import LandingHeader from '../components/UI/landingHeader/landingHeader';
+import ChipStrip from '../components/UI/chipStrip/chipStrip';
 
 
 

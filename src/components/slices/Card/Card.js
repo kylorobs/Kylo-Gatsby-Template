@@ -1,5 +1,5 @@
 import React from "react";
-import InfoCard from '../../content/infoCard/infoCard';
+import InfoCard from '../../UI/infoCard/infoCard';
 import classes from './CardsContainer.module.css'
 
 const Card = ({ slice }) => {

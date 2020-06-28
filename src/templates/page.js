@@ -2,10 +2,10 @@
 import React from "react"
 import { graphql } from "gatsby"
 import { RichText } from "prismic-reactjs";
-import Layout from '../components/layout';
+import Layout from '../components/layout/layout';
 import SliceRenderer from '../components/slices/SliceRenderer';
 import PageContent from '../components/layout/pageContent';
-import CCTV from '../components/content/cctv/cctv';
+import CCTV from '../components/UI/cctv/cctv';
 
 
 

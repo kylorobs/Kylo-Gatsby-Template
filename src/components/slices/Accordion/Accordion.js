@@ -1,5 +1,5 @@
 import React from "react";
-import AccordionDropdown from '../../content/accordion/accordionDropdown';
+import AccordionDropdown from '../../UI/accordion/accordionDropdown';
 import classes from './AccordionStyles.module.css';
 
 const Accordion = ({ slice }) => {
